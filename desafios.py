@@ -29,6 +29,7 @@ def listar_comandos_git_basicos():
     Exemplo de saída:
     ["git init", "git add", "git commit", "git status", "git push"]
     """
+    return ["git init", "git add", "git commit", "git status", "git push"]
     pass
 
 
